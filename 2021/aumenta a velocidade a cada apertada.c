@@ -1,13 +1,3 @@
-/**
-  **
-  * @author  Bernardo Rodrigues da Silva
-  * @date    august,2022
-  * @brief   This project is designed to show the interaction with 2 sw and 1 display.
-  **
-  */
-
-/* Includes ------------------------------------------------------------------*/
-
 #include "stm32f4xx.h"
 
 /* Defines ------------------------------------------------------------------*/
